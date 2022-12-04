@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.first{
+    background-image: url(5caf7c366100be306e75caf7.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+   height: 500px;
+   text-align: center;
+}
+.first .second{
+    background-color: rgba(0,0,0,0.65);
+    height: 100%;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+}
+.second h1,p{
+    color: rgba(245, 245, 220, 0.871);
+}
+.second p{
+    margin-bottom: 40px;
+}
+.second a{
+    text-decoration: none;
+    background-color: rgba(245, 245, 220, 0.734);
+    border-radius: 20px;
+    padding: 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: rgb(27, 27, 94);
+}
+.second a:hover{
+    background-color: beige;
+}
